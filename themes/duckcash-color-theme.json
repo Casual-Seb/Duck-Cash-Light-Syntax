@@ -230,7 +230,7 @@
         "meta.tag.sgml punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#AAAAAA"
+        "foreground": "#272727"
       }
     },
     {
@@ -242,14 +242,14 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#91B3E0"
+        "foreground": "#272727"
       }
     },
     {
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#4B83CD"
+        "foreground": "#272727"
       }
     },
     {
@@ -260,14 +260,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#91B3E0"
+        "foreground": "#272727"
       }
     },
     {
       "name": "HTML: Entities",
       "scope": ["constant.character.entity", "punctuation.definition.entity"],
       "settings": {
-        "foreground": "#AB6526"
+        "foreground": "#272727"
       }
     },
     {
