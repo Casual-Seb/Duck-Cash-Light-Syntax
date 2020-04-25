@@ -1,21 +1,22 @@
 {
-    "name": "duckcash",
-    "displayName": "duckcash",
-    "description": "Syntax Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "duckcash",
-                "uiTheme": "vs",
-                "path": "./themes/duckcash-color-theme.json"
-            }
-        ]
-    }
+  "name": "duckcash",
+  "displayName": "duckcash",
+  "description": "Syntax Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "duckcash",
+  "contributes": {
+    "themes": [
+      {
+        "label": "duckcash",
+        "uiTheme": "vs",
+        "path": "./themes/duckcash-color-theme.json"
+      }
+    ]
+  }
 }
